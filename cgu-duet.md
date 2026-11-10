@@ -1,14 +1,12 @@
 # Conditions générales d’utilisation — Duet
 
-**Dernière mise à jour : 6 septembre 2026**
+**Dernière mise à jour : 10 novembre 2026**
 
 Les présentes conditions (les « CGU ») régissent l’utilisation de l’application iOS **Duet**. En créant un compte ou en utilisant Duet, vous les acceptez.
 
 ## 1. Éditeur
 
-**Mathieu Cocheteux**  
-France  
-E-mail : mathieu@cocheteux.eu
+Mathieu Cocheteux EI, nom commercial Mattiko – entrepreneur individuel – RCS Paris 132 377 078 – domicilié au 47 rue Vivienne, 75002 Paris (société de domiciliation Vivienne Domiciliation) – contact@mattiko.com – 07 66 79 85 32 – TVA non applicable, art. 293 B du CGI.
 
 ## 2. Objet
 
@@ -66,4 +64,4 @@ Si une clause est invalidée, le reste demeure.
 
 ## 11. Contact
 
-mathieu@cocheteux.eu
+contact@mattiko.com
