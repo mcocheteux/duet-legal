@@ -1,14 +1,12 @@
 # Politique de confidentialité — Duet
 
-**Dernière mise à jour : 6 septembre 2026**
+**Dernière mise à jour : 10 novembre 2026**
 
-Cette politique décrit le traitement des données personnelles dans l’application iOS **Duet** (identifiant `com.dailycouplequestions.app`), éditée par Mathieu Cocheteux. Duet permet à un couple de répondre à une question ensemble chaque jour.
+Cette politique décrit le traitement des données personnelles dans l’application iOS **Duet** (identifiant `com.dailycouplequestions.app`), éditée par Mathieu Cocheteux EI (Mattiko). Duet permet à un couple de répondre à une question ensemble chaque jour.
 
 ## 1. Responsable de traitement
 
-**Mathieu Cocheteux**  
-Personne physique établie en France  
-E-mail : mathieu@cocheteux.eu
+Mathieu Cocheteux EI, nom commercial Mattiko – entrepreneur individuel – RCS Paris 132 377 078 – domicilié au 47 rue Vivienne, 75002 Paris (société de domiciliation Vivienne Domiciliation) – contact@mattiko.com – 07 66 79 85 32 – TVA non applicable, art. 293 B du CGI.
 
 Apple Inc. / Apple Distribution International Ltd. sont responsables de leurs propres traitements (compte Apple, App Store, Sign in with Apple en tant que service d’identité). Duet est responsable des traitements qu’il détermine dans l’app.
 
@@ -82,7 +80,7 @@ Dans l’app :
 - **supprimer le compte** : efface votre compte et les données associées chez nous, et **révoque le jeton Sign in with Apple** ;
 - désactiver les notifications dans Réglages iOS / l’app.
 
-Délai de réponse : 1 mois. Écrivez à mathieu@cocheteux.eu si vous n’avez plus accès à l’app.
+Délai de réponse : 1 mois. Écrivez à contact@mattiko.com si vous n’avez plus accès à l’app.
 
 ## 8. Mineurs
 
