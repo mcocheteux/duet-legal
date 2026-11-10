@@ -8,7 +8,7 @@ Cette politique décrit le traitement des données personnelles dans l’applica
 
 Mathieu Cocheteux EI, nom commercial Mattiko – entrepreneur individuel – RCS Paris 132 377 078 – domicilié au 47 rue Vivienne, 75002 Paris (société de domiciliation Vivienne Domiciliation) – contact@mattiko.com – 07 66 79 85 32 – TVA non applicable, art. 293 B du CGI.
 
-Apple Inc. / Apple Distribution International Ltd. sont responsables de leurs propres traitements (compte Apple, App Store, Sign in with Apple en tant que service d’identité). Duet est responsable des traitements qu’il détermine dans l’app.
+Apple Inc. / Apple Distribution International Ltd. sont responsables de leurs propres traitements (compte Apple, App Store, Sign in with Apple en tant que service d’identité). L’éditeur est responsable des traitements qu’il détermine dans l’app.
 
 ## 2. Données traitées
 
@@ -59,7 +59,7 @@ Personne d’autre. Pas de régie publicitaire.
 
 ## 5. Transferts hors Union européenne
 
-Apple, RevenueCat et Supabase peuvent traiter des données aux États-Unis ou dans d’autres pays. Ces prestataires s’appuient notamment sur des clauses contractuelles types / mécanismes de transfert reconnus. En utilisant Duet, vous acceptez ce recours à ces sous-traitants pour fournir le service.
+Apple, RevenueCat et Supabase peuvent traiter des données hors de l’Union européenne, notamment aux États-Unis. Ces transferts sont encadrés par le cadre de protection des données UE–États-Unis (Data Privacy Framework) lorsque le prestataire y est certifié, ou à défaut par les clauses contractuelles types de la Commission européenne (art. 45 et 46 RGPD). Vous pouvez obtenir une copie de ces garanties en écrivant à contact@mattiko.com.
 
 ## 6. Durées de conservation
 
