@@ -56,6 +56,8 @@ Le service dépend d’iOS, d’Apple, de Supabase et de RevenueCat. Des interru
 
 Droit **français**. Consommateur : vous pouvez saisir les tribunaux de votre domicile ou du défendeur.
 
+En cas de litige non résolu après réclamation écrite à contact@mattiko.com, vous pouvez recourir gratuitement au médiateur de la consommation : CM2C (Centre de la médiation de la consommation de conciliateurs de justice), 49 rue de Ponthieu, 75008 Paris – www.cm2c.net – 01 89 47 00 14. Vous devez le saisir dans un délai d'un an à compter de votre réclamation écrite.
+
 ## 10. Modification des CGU
 
 Nous pouvons modifier les CGU. La date en tête fait foi. Un changement substantiel sera signalé dans l’app. L’usage continu après information peut valoir acceptation, sans préjudice des droits consommateurs et des règles sur le consentement.
